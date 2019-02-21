@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Sample suite]">
+  <test name="Sample Test(failed)">
+    <classes>
+      <class name="automate.Batch1">
+        <methods>
+          <include name="terminateBrowser"/>
+          <include name="launchBrowser"/>
+          <include name="getTitle"/>
+        </methods>
+      </class> <!-- automate.Batch1 -->
+    </classes>
+  </test> <!-- Sample Test(failed) -->
+</suite> <!-- Failed suite [Sample suite] -->

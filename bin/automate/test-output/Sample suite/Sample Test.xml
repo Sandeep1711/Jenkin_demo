@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Sandeep-PC" name="automate.Batch1" tests="3" failures="0" timestamp="21 Feb 2019 17:50:35 GMT" time="31.346" errors="0">
+  <testcase name="launchBrowser" time="25.911" classname="automate.Batch1"/>
+  <testcase name="getTitle" time="0.016" classname="automate.Batch1"/>
+  <testcase name="terminateBrowser" time="5.367" classname="automate.Batch1"/>
+</testsuite>
